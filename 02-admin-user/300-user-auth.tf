@@ -2,7 +2,7 @@
 
 # # User Auth
 # provider "google" {
-#   project     = "gcp-01-453500"
+#   project     = "gcp-02"
 #   region      = "sao-paulo"
 #   credentials = "key.json"
 #   alias = "user"

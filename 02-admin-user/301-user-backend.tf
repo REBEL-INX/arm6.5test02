@@ -2,7 +2,7 @@
 # # Balerica Team Admin Backend
 # terraform {
 #   backend "gcs" {
-#     bucket      = "wave-terraform-state-01"
+#     bucket      = "wave-terraform-state-03"
 #     prefix      = "terraform/team-state"
 #     credentials = "key.json"
 #   }
